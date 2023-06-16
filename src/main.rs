@@ -91,7 +91,7 @@ fn main() {
     out.sort();
 
     for v in out {
-        print!("{} is open", v);
+        println!("{} is open", v);
     }
 }
 
